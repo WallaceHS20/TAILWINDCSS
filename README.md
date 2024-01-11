@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=header&text=LOGIN+COM+TAILWINDCSS&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=FFFAFA"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=180&section=header&text=LANÇAMENTO+TÊNIS+NIKE&animation=fadeIn&fontAlignY=35&fontSize=30&fontColor=FFFAFA"/>
 
 Desenvolvimento de uma tela de login utilizando TailwindCSS
 ## Tecnologias 
